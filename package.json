@@ -1,0 +1,9 @@
+{
+  "name": "project-algo",
+  "version": "1.0.0",
+  "description": "The collections of projects I have been building to learn algorithms and data structures",
+  "main": "index.js",
+  "repository": "git@github.com:codingluan/project-algo.git",
+  "author": "Luan Tran <codingluan@gmail.com>",
+  "license": "MIT"
+}
